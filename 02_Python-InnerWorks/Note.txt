@@ -15,6 +15,12 @@ steps:
 __Pycash__
 -> Python make a system folder taht is useful only for Python.
 
+hello_world.cpython-312
+-> hello_world: File Name
+-> cpython: Standerd Python Version
+-> 3.12: version
+
+
 Python vertual Machine (PVM)?
 -> It is a Software. This is run time engine. In the PVM a loop was continnusly 
 running. When we drop the code and the code was exicuted.
