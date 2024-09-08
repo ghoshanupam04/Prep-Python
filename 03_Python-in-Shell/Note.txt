@@ -1,0 +1,7 @@
+# Python Shell:
+
+If you are in windows machine 'idle' to check the pytho shell. 
+Other wise in command pront or terminal just write 'python'.
+
+If you are in Mack or Linux Machine then write 'python3' 
+to check the python shell.
