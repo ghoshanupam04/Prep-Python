@@ -1,0 +1,20 @@
+#Python Inner-Working:
+
+** IMP: 
+Python was Interpreted Language. Means, the code is run line by line, 
+and is converted into bytecode each time the program is run.**
+
+Python make byte code. (Most in case this was hidden).
+When we install Python then in same time another one is autometically installed that 
+is Pythonn-VM(Python Vartual Machine). This is use to run the actual code.
+
+steps:
+1. Compile to Byte Code. (Byte Ccode: Low lavel Code & Platform Independent).
+2. Byte Code run faster.
+
+__Pycash__
+-> Python make a system folder taht is useful only for Python.
+
+Python vertual Machine (PVM)?
+-> It is a Software. This is run time engine. In the PVM a loop was continnusly 
+running. When we drop the code and the code was exicuted.
